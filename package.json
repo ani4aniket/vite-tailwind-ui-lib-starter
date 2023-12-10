@@ -1,7 +1,7 @@
 {
   "name": "ui",
-  "private": false,
-  "version": "2.0.4",
+  "private": true,
+  "version": "0.0.1",
   "packageManager": "pnpm@8.4.0",
   "repository": {
     "type": "git",
