@@ -1,3 +1,3 @@
 export const MlBanner = () => {
-  return <div>Banner</div>
+  return <div className="text-red-500">Banner</div>
 }
