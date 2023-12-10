@@ -1,20 +1,20 @@
 {
-  "name": "vite-component-library-template",
+  "name": "ui",
   "private": false,
   "version": "2.0.4",
   "packageManager": "pnpm@8.4.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/IgnacioNMiranda/vite-component-library-template"
+    "url": "https://github.com/ani4aniket/vite-tailwind-ui-lib-starter"
   },
-  "main": "./dist/vite-component-library-template.umd.js",
-  "module": "./dist/vite-component-library-template.es.js",
+  "main": "./dist/ui.umd.js",
+  "module": "./dist/ui.es.js",
   "types": "./dist/index.d.ts",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
-      "import": "./dist/vite-component-library-template.es.js",
-      "require": "./dist/vite-component-library-template.umd.js"
+      "import": "./dist/ui.es.js",
+      "require": "./dist/ui.umd.js"
     },
     "./dist/style.css": "./dist/style.css"
   },
@@ -70,7 +70,7 @@
     "postcss": "8.4.27",
     "prettier": "3.0.1",
     "prop-types": "15.8.1",
-    "storybook": "7.2.2",
+    "storybook": "7.6.4",
     "tailwindcss": "3.3.3",
     "typescript": "5.1.6",
     "vite": "4.4.9",
