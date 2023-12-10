@@ -1,7 +1,7 @@
 {
   "name": "@ani4aniket/ui",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packageManager": "pnpm@8.4.0",
   "repository": {
     "type": "git",
