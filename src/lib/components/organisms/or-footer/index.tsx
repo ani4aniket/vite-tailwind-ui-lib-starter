@@ -1,3 +1,3 @@
 export const OrFooter = () => {
-  return <div>Footer</div>
+  return <div className="bg-gray-400">Footer</div>
 }
